@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Shivam Jha 👋</h1>
+<h3 align="center">Turning coffee into clean commits ☕💻</h3>
 
-<!--
-**xivamCodes/xivamCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧰 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,git,github" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects
+- **Face2Face**  
+- **Appointment Scheduler**  
+- **Event Screening App**
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xivamCodes&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xivamCodes&theme=tokyonight" />
+</p>
+
+---
+
+### 📬 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)
